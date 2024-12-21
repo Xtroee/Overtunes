@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: bfd1eb48b893d5c44bf0ec2bd4aeef70
+  - enabled: 1
+    path: Assets/Scenes/SelectOpponent.unity
+    guid: a70e2ea928cf2844db37b1f14835b071
+  - enabled: 1
     path: Assets/Scenes/vsSydney.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/vsCynthia.unity
+    guid: 941797983147eb542bc0dde8bcce9d97
   m_configObjects: {}

@@ -10,6 +10,7 @@ public class StageClearShow : MonoBehaviour
         if (gameOverUI != null)
         {
             gameOverUI.SetActive(true);
+            Cursor.visible = true;
         }
     }
 }

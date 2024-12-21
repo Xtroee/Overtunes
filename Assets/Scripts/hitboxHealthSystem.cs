@@ -70,6 +70,7 @@ public class HealthSystem : MonoBehaviour
         if (gameOverUI != null)
         {
             gameOverUI.SetActive(true);
+            Cursor.visible = true;
         }
         else
         {

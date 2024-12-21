@@ -7,6 +7,8 @@ public class TimedObjectAppearance : MonoBehaviour
     public float appearTime = 5f;     // Time in seconds to wait before the object appears
     public float disappearTime = 10f; // Time in seconds to wait before the object disappears
     public float transitionDuration = 1f; // Duration of the sliding transition in seconds
+    public ScreenShake screenShake;
+    
 
     [Header("Position Settings")]
     public Vector3 startPosition;     // Starting position of the object (outside the screen)
@@ -61,6 +63,7 @@ public class TimedObjectAppearance : MonoBehaviour
         if (isObjectVisible && timer >= disappearTime && timer < disappearTime + transitionDuration)
         {
             // Lerp the object's position from target to end
+
             float t = (timer - disappearTime) / transitionDuration;
             objectToAppear.transform.position = Vector3.Lerp(targetPosition, endPosition, t);
 
@@ -85,6 +88,8 @@ public class TimedObjectAppearance : MonoBehaviour
             if (soundEffect != null)
             {
                 soundEffect.Play();
+                screenShake.TriggerShake(0.5f);
+
             }
 
             // Start the sliding transition

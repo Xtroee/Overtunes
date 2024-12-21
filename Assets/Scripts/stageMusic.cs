@@ -18,6 +18,7 @@ public class MusicManager : MonoBehaviour
 
         // Play the music
         musicSource.Play();
+        Time.timeScale = 1f;
     }
 
     void Update()
