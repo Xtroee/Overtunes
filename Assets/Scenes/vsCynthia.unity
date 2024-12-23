@@ -5413,7 +5413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0c3e8c8eb39bd142888bcc6698eb88d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 0.5
+  delay: 0
 --- !u!1 &1285256417
 GameObject:
   m_ObjectHideFlags: 0
@@ -5850,7 +5850,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0c3e8c8eb39bd142888bcc6698eb88d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 0.5
+  delay: 0
 --- !u!1 &1302199649
 GameObject:
   m_ObjectHideFlags: 0
@@ -6561,7 +6561,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0c3e8c8eb39bd142888bcc6698eb88d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 0.5
+  delay: 0
 --- !u!114 &1320963425
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6620,8 +6620,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1320963424}
-        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: LoadScene
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: changeScene
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
