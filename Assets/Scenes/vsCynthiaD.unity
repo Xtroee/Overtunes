@@ -683,12 +683,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8271324028315830331, guid: f5ff7e00a97e6b44a9dbf3c9a4bbd11d, type: 3}
+  projectilePrefab: {fileID: 8271324028315830331, guid: ba7f5a2c99ca0c74ab16d400fdf4446d, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
   projectileSpeed: 3
   projectileLifetime: 6
-  projectileSpread: 23
+  projectileSpread: 11
   spreadRange: 360
   startFireTime: 27
   stopFireTime: 33
@@ -756,12 +756,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
   projectileSpeed: 2
   projectileLifetime: 5
-  projectileSpread: 25
+  projectileSpread: 7
   spreadRange: 360
   startFireTime: 33
   stopFireTime: 38
@@ -777,12 +777,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 6541595352647958015, guid: eb23250cd7d5f1548863279ab9d9ed23, type: 3}
+  projectilePrefab: {fileID: 6541595352647958015, guid: bcf7716b47f78eb49bff6516dd5867ae, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
   projectileSpeed: 8
   projectileLifetime: 5
-  projectileSpread: 21
+  projectileSpread: 9
   spreadRange: 180
   startFireTime: 93
   stopFireTime: 102
@@ -1248,7 +1248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8164657468297834034, guid: 1727db9fd850ef44d8597e2f5574ded5, type: 3}
+  projectilePrefab: {fileID: 8164657468297834034, guid: 6ac6fbe4f0218224abc82e0ad98d9692, type: 3}
   aimTarget: {fileID: 1293227459}
   fireInterval: 1.5
   projectileSpeed: 6
@@ -1269,7 +1269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 1286724154150932878, guid: 4944faf5e1f5281489a221a8c8780986, type: 3}
+  projectilePrefab: {fileID: 1286724154150932878, guid: 0b92aefeb5b7cc147883a8094ae4c50d, type: 3}
   aimTarget: {fileID: 1293227459}
   fireInterval: 1
   projectileSpeed: 40
@@ -1290,12 +1290,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 295735136923483730, guid: bb1d285f7bc9e9042bb13b6cbcecc7b0, type: 3}
+  projectilePrefab: {fileID: 295735136923483730, guid: 03d62389f0113e04482df358bcac6310, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
   projectileSpeed: 8
   projectileLifetime: 2
-  projectileSpread: 5
+  projectileSpread: 3
   spreadRange: 60
   startFireTime: 39.5
   stopFireTime: 49
@@ -1922,7 +1922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94bb0bd6070550741a33051f327df094, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 1.4
+  movementSpeed: 0.8
   movementRange: 1.5
 --- !u!1 &728771692
 GameObject:
@@ -2631,12 +2631,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 6541595352647958015, guid: eb23250cd7d5f1548863279ab9d9ed23, type: 3}
+  projectilePrefab: {fileID: 6541595352647958015, guid: bcf7716b47f78eb49bff6516dd5867ae, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
   projectileSpeed: 3
   projectileLifetime: 6
-  projectileSpread: 21
+  projectileSpread: 11
   spreadRange: 360
   startFireTime: 26.5
   stopFireTime: 49
@@ -2704,12 +2704,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 6541595352647958015, guid: eb23250cd7d5f1548863279ab9d9ed23, type: 3}
+  projectilePrefab: {fileID: 6541595352647958015, guid: bcf7716b47f78eb49bff6516dd5867ae, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
   projectileSpeed: 3
   projectileLifetime: 5
-  projectileSpread: 21
+  projectileSpread: 9
   spreadRange: 180
   startFireTime: 92.5
   stopFireTime: 102
@@ -2816,12 +2816,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 6541595352647958015, guid: eb23250cd7d5f1548863279ab9d9ed23, type: 3}
+  projectilePrefab: {fileID: 6541595352647958015, guid: bcf7716b47f78eb49bff6516dd5867ae, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
   projectileSpeed: 8
   projectileLifetime: 8
-  projectileSpread: 29
+  projectileSpread: 17
   spreadRange: 360
   startFireTime: 110
   stopFireTime: 112
@@ -2837,12 +2837,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8040494349106797607, guid: 3ead26879d276da47ac744307b9237f8, type: 3}
+  projectilePrefab: {fileID: 8040494349106797607, guid: 3dcaef7c98649e2418a1defabdc3e156, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.25
   projectileSpeed: 3
   projectileLifetime: 8
-  projectileSpread: 41
+  projectileSpread: 35
   spreadRange: 360
   startFireTime: 107
   stopFireTime: 108.5
@@ -2858,12 +2858,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
   projectileSpeed: 6
   projectileLifetime: 5
-  projectileSpread: 29
+  projectileSpread: 17
   spreadRange: 360
   startFireTime: 106
   stopFireTime: 107.1
@@ -2879,12 +2879,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8040494349106797607, guid: 3ead26879d276da47ac744307b9237f8, type: 3}
+  projectilePrefab: {fileID: 8040494349106797607, guid: 3dcaef7c98649e2418a1defabdc3e156, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
   projectileSpeed: 4
   projectileLifetime: 5
-  projectileSpread: 31
+  projectileSpread: 21
   spreadRange: 360
   startFireTime: 115
   stopFireTime: 120
@@ -2900,12 +2900,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
   projectileSpeed: 3
   projectileLifetime: 8
-  projectileSpread: 29
+  projectileSpread: 17
   spreadRange: 360
   startFireTime: 113
   stopFireTime: 115
@@ -2921,12 +2921,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 1286724154150932878, guid: 4944faf5e1f5281489a221a8c8780986, type: 3}
+  projectilePrefab: {fileID: 1286724154150932878, guid: 0b92aefeb5b7cc147883a8094ae4c50d, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
   projectileSpeed: 4.5
   projectileLifetime: 5
-  projectileSpread: 31
+  projectileSpread: 23
   spreadRange: 360
   startFireTime: 109
   stopFireTime: 115
@@ -2942,12 +2942,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 5663944638087826617, guid: 6e5a420d0c6d002409b6d4b5c0b4ae8b, type: 3}
+  projectilePrefab: {fileID: 5663944638087826617, guid: 95b905888b04c5c4dbb38e44c5b1df32, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.3
   projectileSpeed: 5
   projectileLifetime: 5
-  projectileSpread: 19
+  projectileSpread: 9
   spreadRange: 360
   startFireTime: 108.5
   stopFireTime: 108.9
@@ -3050,12 +3050,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8040494349106797607, guid: 3ead26879d276da47ac744307b9237f8, type: 3}
+  projectilePrefab: {fileID: 8040494349106797607, guid: 3dcaef7c98649e2418a1defabdc3e156, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
-  projectileSpeed: 4
+  projectileSpeed: 3
   projectileLifetime: 8
-  projectileSpread: 7
+  projectileSpread: 3
   spreadRange: 60
   startFireTime: 126
   stopFireTime: 130
@@ -3071,12 +3071,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8040494349106797607, guid: 3ead26879d276da47ac744307b9237f8, type: 3}
+  projectilePrefab: {fileID: 8040494349106797607, guid: 3dcaef7c98649e2418a1defabdc3e156, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
-  projectileSpeed: 4
+  projectileSpeed: 3
   projectileLifetime: 8
-  projectileSpread: 21
+  projectileSpread: 11
   spreadRange: 360
   startFireTime: 124
   stopFireTime: 126
@@ -3092,12 +3092,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8040494349106797607, guid: 3ead26879d276da47ac744307b9237f8, type: 3}
+  projectilePrefab: {fileID: 8040494349106797607, guid: 3dcaef7c98649e2418a1defabdc3e156, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
-  projectileSpeed: 4
+  projectileSpeed: 3
   projectileLifetime: 8
-  projectileSpread: 23
+  projectileSpread: 15
   spreadRange: 360
   startFireTime: 120
   stopFireTime: 124
@@ -3839,7 +3839,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8164657468297834034, guid: 1727db9fd850ef44d8597e2f5574ded5, type: 3}
+  projectilePrefab: {fileID: 8164657468297834034, guid: 6ac6fbe4f0218224abc82e0ad98d9692, type: 3}
   aimTarget: {fileID: 1250331406}
   fireInterval: 1.5
   projectileSpeed: 6
@@ -3912,7 +3912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 1286724154150932878, guid: 4944faf5e1f5281489a221a8c8780986, type: 3}
+  projectilePrefab: {fileID: 1286724154150932878, guid: 0b92aefeb5b7cc147883a8094ae4c50d, type: 3}
   aimTarget: {fileID: 1250331406}
   fireInterval: 1.5
   projectileSpeed: 40
@@ -3933,12 +3933,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 295735136923483730, guid: bb1d285f7bc9e9042bb13b6cbcecc7b0, type: 3}
+  projectilePrefab: {fileID: 295735136923483730, guid: 03d62389f0113e04482df358bcac6310, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1
   projectileSpeed: 8
   projectileLifetime: 2
-  projectileSpread: 5
+  projectileSpread: 3
   spreadRange: 60
   startFireTime: 40.5
   stopFireTime: 49
@@ -3954,7 +3954,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 5663944638087826617, guid: 6e5a420d0c6d002409b6d4b5c0b4ae8b, type: 3}
+  projectilePrefab: {fileID: 5663944638087826617, guid: 95b905888b04c5c4dbb38e44c5b1df32, type: 3}
   aimTarget: {fileID: 1250331406}
   fireInterval: 1.5
   projectileSpeed: 20
@@ -5152,7 +5152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 1286724154150932878, guid: 4944faf5e1f5281489a221a8c8780986, type: 3}
+  projectilePrefab: {fileID: 1286724154150932878, guid: 0b92aefeb5b7cc147883a8094ae4c50d, type: 3}
   aimTarget: {fileID: 1046914073}
   fireInterval: 0.2
   projectileSpeed: 40
@@ -5225,7 +5225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 1046914073}
   fireInterval: 1.5
   projectileSpeed: 25
@@ -5246,7 +5246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 5663944638087826617, guid: 6e5a420d0c6d002409b6d4b5c0b4ae8b, type: 3}
+  projectilePrefab: {fileID: 5663944638087826617, guid: 95b905888b04c5c4dbb38e44c5b1df32, type: 3}
   aimTarget: {fileID: 1046914073}
   fireInterval: 1.5
   projectileSpeed: 20
@@ -5512,12 +5512,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 5663944638087826617, guid: 6e5a420d0c6d002409b6d4b5c0b4ae8b, type: 3}
+  projectilePrefab: {fileID: 5663944638087826617, guid: 95b905888b04c5c4dbb38e44c5b1df32, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
   projectileSpeed: 4
   projectileLifetime: 5
-  projectileSpread: 27
+  projectileSpread: 15
   spreadRange: 360
   startFireTime: 53
   stopFireTime: 66
@@ -5533,12 +5533,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 1286724154150932878, guid: 4944faf5e1f5281489a221a8c8780986, type: 3}
+  projectilePrefab: {fileID: 1286724154150932878, guid: 0b92aefeb5b7cc147883a8094ae4c50d, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.5
   projectileSpeed: 4.5
   projectileLifetime: 5
-  projectileSpread: 29
+  projectileSpread: 19
   spreadRange: 360
   startFireTime: 66
   stopFireTime: 79
@@ -5589,7 +5589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 1286724154150932878, guid: 4944faf5e1f5281489a221a8c8780986, type: 3}
+  projectilePrefab: {fileID: 1286724154150932878, guid: 0b92aefeb5b7cc147883a8094ae4c50d, type: 3}
   aimTarget: {fileID: 422620181}
   fireInterval: 0.2
   projectileSpeed: 40
@@ -5662,7 +5662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 422620181}
   fireInterval: 1.5
   projectileSpeed: 25
@@ -5683,7 +5683,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 5663944638087826617, guid: 6e5a420d0c6d002409b6d4b5c0b4ae8b, type: 3}
+  projectilePrefab: {fileID: 5663944638087826617, guid: 95b905888b04c5c4dbb38e44c5b1df32, type: 3}
   aimTarget: {fileID: 422620181}
   fireInterval: 1.5
   projectileSpeed: 20
@@ -7427,12 +7427,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 1166385162}
   fireInterval: 1.5
   projectileSpeed: 0.8
   projectileLifetime: 15
-  projectileSpread: 49
+  projectileSpread: 37
   spreadRange: 360
   startFireTime: 13.5
   stopFireTime: 14
@@ -7500,12 +7500,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8271324028315830331, guid: f5ff7e00a97e6b44a9dbf3c9a4bbd11d, type: 3}
+  projectilePrefab: {fileID: 8271324028315830331, guid: ba7f5a2c99ca0c74ab16d400fdf4446d, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.8
   projectileSpeed: 6
   projectileLifetime: 3
-  projectileSpread: 19
+  projectileSpread: 7
   spreadRange: 360
   startFireTime: 14.4
   stopFireTime: 26
@@ -7521,12 +7521,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8271324028315830331, guid: f5ff7e00a97e6b44a9dbf3c9a4bbd11d, type: 3}
+  projectilePrefab: {fileID: 8271324028315830331, guid: ba7f5a2c99ca0c74ab16d400fdf4446d, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.4
-  projectileSpeed: 6
+  projectileSpeed: 5
   projectileLifetime: 8
-  projectileSpread: 7
+  projectileSpread: 3
   spreadRange: 15
   startFireTime: 4.5
   stopFireTime: 13
@@ -7542,12 +7542,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.4
-  projectileSpeed: 3
+  projectileSpeed: 2
   projectileLifetime: 7
-  projectileSpread: 19
+  projectileSpread: 11
   spreadRange: 360
   startFireTime: 18.8
   stopFireTime: 20
@@ -7563,12 +7563,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 6541595352647958015, guid: eb23250cd7d5f1548863279ab9d9ed23, type: 3}
+  projectilePrefab: {fileID: 6541595352647958015, guid: bcf7716b47f78eb49bff6516dd5867ae, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 0.8
-  projectileSpeed: 2
+  projectileSpeed: 1.5
   projectileLifetime: 10
-  projectileSpread: 29
+  projectileSpread: 19
   spreadRange: 360
   startFireTime: 14
   stopFireTime: 26
@@ -7584,12 +7584,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 324615165997908906, guid: f63fe397ea699544ebf66fc3a259c04b, type: 3}
+  projectilePrefab: {fileID: 324615165997908906, guid: 6c6e8e6f4fc4e54429509ce73e86b0ef, type: 3}
   aimTarget: {fileID: 1310944708}
   fireInterval: 1.5
   projectileSpeed: 0.8
-  projectileLifetime: 19
-  projectileSpread: 45
+  projectileLifetime: 15
+  projectileSpread: 37
   spreadRange: 360
   startFireTime: 79.5
   stopFireTime: 80
@@ -8859,12 +8859,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 6541595352647958015, guid: eb23250cd7d5f1548863279ab9d9ed23, type: 3}
+  projectilePrefab: {fileID: 6541595352647958015, guid: bcf7716b47f78eb49bff6516dd5867ae, type: 3}
   aimTarget: {fileID: 3084646}
   fireInterval: 1
   projectileSpeed: 3
   projectileLifetime: 20
-  projectileSpread: 25
+  projectileSpread: 19
   spreadRange: 360
   startFireTime: 79.5
   stopFireTime: 85.5
@@ -8880,12 +8880,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76233b0831c98f4438444afbe3ec7a03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectilePrefab: {fileID: 8040494349106797607, guid: 3ead26879d276da47ac744307b9237f8, type: 3}
+  projectilePrefab: {fileID: 8040494349106797607, guid: 3dcaef7c98649e2418a1defabdc3e156, type: 3}
   aimTarget: {fileID: 3084646}
   fireInterval: 1.5
   projectileSpeed: 2
   projectileLifetime: 15
-  projectileSpread: 43
+  projectileSpread: 35
   spreadRange: 360
   startFireTime: 102
   stopFireTime: 103

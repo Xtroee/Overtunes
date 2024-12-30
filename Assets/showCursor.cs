@@ -8,6 +8,7 @@ public class showCursor : MonoBehaviour
     void Start()
     {
         Cursor.visible = true;
+        Time.timeScale = 1f;
     }
 
     // Update is called once per frame

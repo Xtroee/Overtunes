@@ -7,7 +7,7 @@ public class playerScript : MonoBehaviour
 {
     // Player movement settings
     public float speed = 5.0f;
-    public float acceleration = 10f; // Acceleration for smooth movement
+    public float acceleration = 50f; // Acceleration for smooth movement
     public float dashSpeed = 10f; // Dash speed multiplier
     public float dashDuration = 0.2f; // Duration of the dash
     public float dashCooldown = 3f; // Cooldown for dashing

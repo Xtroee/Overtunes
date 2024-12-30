@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/vsCynthiaEZ.unity
     guid: f611348e687a33e40aaf3838e5417bbe
+  - enabled: 1
+    path: Assets/Scenes/vsCynthiaD.unity
+    guid: 0b6dfc82dc56ae441891f46bd861d197
   m_configObjects: {}
